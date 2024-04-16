@@ -1,0 +1,10 @@
+
+SALTOS CONDICIONADOS
+ je : salta a etiqueta si A=B
+ ja : salta a etiqueta si A>B
+ jae: salat a etiqueta si A>=B
+ jb : salta a etiqueta si A<B
+ jbe: salta a etiqueta si A<=B
+
+--------------
+jmp : salta a etiqueta sin condicional 
