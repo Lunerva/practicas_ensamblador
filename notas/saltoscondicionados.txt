@@ -8,3 +8,6 @@ SALTOS CONDICIONADOS
 
 --------------
 jmp : salta a etiqueta sin condicional 
+
+
+
